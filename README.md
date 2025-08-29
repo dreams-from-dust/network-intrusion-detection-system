@@ -63,4 +63,4 @@ Watch a full walkthrough of the NIDS GUI in action: **[NIDS GUI Walkthrough Vide
 This project successfully demonstrates how to build and secure a departmental network using both simulation tools and scripting logic. By integrating CLI configurations, honeypots, SSH, ACLs, and Python-based automation, a complete NIDS system was simulated with full user interaction.
 
 ### Full Report & Documentation
-For full project details, including testing, limitations, and references, you can download the original project report here: **[NIDS Report.docx](NIDS Report.docx)**
+For full project details, including testing, limitations, and references, you can download the original project report here: **[nids-report.pdf](nids-report.pdf)**
