@@ -56,6 +56,9 @@ Below are screenshots of the user interface created with Tkinter, which allows f
 **6. Generated ACL Commands**
 ![Generated ACL Commands](images/gui_acls.png)
 
+### Video Demonstration
+Watch a full walkthrough of the NIDS GUI in action: **[NIDS GUI Walkthrough Video](nids_gui_video.mp4)**
+
 ### Conclusion
 This project successfully demonstrates how to build and secure a departmental network using both simulation tools and scripting logic. By integrating CLI configurations, honeypots, SSH, ACLs, and Python-based automation, a complete NIDS system was simulated with full user interaction.
 
